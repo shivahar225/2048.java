@@ -1,0 +1,49 @@
+/*@font-face {
+    font-family: 'NotoColorEmoji';
+    src: url('../resources/fonts/NotoColorEmoji.ttf') format('truetype');
+}*/
+.root{
+-fx-background-color: #ffff;
+}
+.button{
+-fx-font-family:"verdana";
+-fx-font-size: 15px;
+-fx-font-weight: bold;
+-fx-background-color: #F2F3F4;
+-fx-pref-height: 200px;
+-fx-pref-width: 200px;
+-fx-text-fill: green;
+}
+#normal{
+-fx-font-family: "verdana";
+-fx-background-color:#9C27B0;
+-fx-text-fill: #ffff;
+-fx-font-size: 10px;
+-fx-font-weight: bold;
+-fx-pref-height: 30px;
+-fx-pref-width: 100px;
+}
+#score{
+-fx-font-family:"verdana";
+-fx-background-color:#ffff;
+-fx-text-fill: #9E9E9E;
+-fx-font-size: 12px;
+-fx-font-weight: bold;
+-fx-pref-height: 35px;
+-fx-pref-width: 150px;
+-fx-border-width: 2;
+-fx-border-color: #F2F3F4;
+}
+.color2{ -fx-background-color: #C1FF33;}
+.color4{ -fx-background-color: #FFA500;}
+.color8{ -fx-background-color : #FF8557;}
+.color16{ -fx-background-color: #7057FF;}
+.color32{ -fx-background-color: #F1FC46;}
+.color64{ -fx-background-color: #FF6D8A;}
+.color128{ -fx-background-color: #93FF6D;}
+.color256{ -fx-background-color: #ffff00;}
+.color512{ -fx-background-color: #ff8a65;}
+.color1024{ -fx-background-color: #bdbdbd;}
+.color2048{ -fx-background-color: #80cbc4;}
+
+
